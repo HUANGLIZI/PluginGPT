@@ -1,7 +1,7 @@
 # PluginGPT
 PluginGPT: Rethinking the Role of GPT Plugins
 
-## OpenAI API-Based
+## OpenAI GPT4/3.5-Based
 1. VideoChat: Chat-Centric Video Understanding [Arxiv](https://arxiv.org/abs/2305.06355), [Code](https://github.com/OpenGVLab/Ask-Anything)
 2. ChatCAD+: Towards a Reliable and Universal Interactive CAD using LLMs [Arxiv](https://arxiv.org/abs/2305.15964), [Code](https://github.com/zhaozh10/ChatCAD)
 3. MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action [Arxiv](https://arxiv.org/abs/2303.11381), [Code](https://github.com/microsoft/MM-REACT)
