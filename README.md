@@ -4,6 +4,7 @@ PluginGPT: Rethinking the Role of GPT Plugins
 ## OpenAI API-Based
 1. VideoChat: Chat-Centric Video Understanding [Arxiv](https://arxiv.org/abs/2305.06355), [Code](https://github.com/OpenGVLab/Ask-Anything)
 2. ChatCAD+: Towards a Reliable and Universal Interactive CAD using LLMs [Arxiv](https://arxiv.org/abs/2305.15964), [Code](https://github.com/zhaozh10/ChatCAD)
+3. MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action [Arxiv](https://arxiv.org/abs/2303.11381), [Code](https://github.com/microsoft/MM-REACT)
 ## Pretrain Model-Based (LLaMA, Vicuna, LLaVA, OpenFlamingo, ChatGLM)
 ### LLaMA-Based
 1. Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding [Arxiv](https://arxiv.org/abs/2306.02858), [Code](https://github.com/DAMO-NLP-SG/Video-LLaMA)
@@ -18,7 +19,11 @@ PluginGPT: Rethinking the Role of GPT Plugins
 1. MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models [Arxiv](https://arxiv.org/abs/2304.10592), [Code](https://github.com/vision-cair/minigpt-4)
 2. XrayGPT: Chest Radiographs Summarization using Large Medical Vision-Language Models [Arxiv](https://arxiv.org/abs/2306.07971), [Code](https://github.com/mbzuai-oryx/XrayGPT)
 3. Path to Medical AGI: Unify Domain-specific Medical LLMs with the Lowest Cost** [Arxiv](https://arxiv.org/abs/2306.10765), [Code](https://github.com/JoshuaChou2018/MedAGI)(**The Same First Author)
-4. SkinGPT-4: An Interactive Dermatology Diagnostic System with Visual Large Language Model** [MedRxiv](https://www.medrxiv.org/content/10.1101/2023.06.10.23291127v1.full.pdf), [Code](https://github.com/JoshuaChou2018/SkinGPT-4)(**The Same First Author)
+4. SkinGPT-4: An Interactive Dermatology Diagnostic System with Visual Large Language Model** [MedRxiv](https://www.medrxiv.org/content/10.1101/2023.06.10.23291127v1.full.pdf
+        
+        
+        
+        ), [Code](https://github.com/JoshuaChou2018/SkinGPT-4)(**The Same First Author)
 6. ProteinChat: Towards Enabling ChatGPT-Like Capabilities on Protein 3D Structures [TechRixv](https://www.techrxiv.org/articles/preprint/ProteinChat_Towards_Achieving_ChatGPT-Like_Functionalities_on_Protein_3D_Structures/23120606), [Code](https://github.com/UCSD-AI4H/proteinchat)
 7. PandaGPT: One Model to Instruction-Follow Them All [Arxiv](https://arxiv.org/abs/2305.16355), [Code](https://github.com/yxuansu/PandaGPT)
 ### LLaVA-Based (also LLaMA-Based)
