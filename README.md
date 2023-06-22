@@ -26,6 +26,8 @@ PluginGPT: Rethinking the Role of GPT Plugins
 6. ProteinChat: Towards Enabling ChatGPT-Like Capabilities on Protein 3D Structures [TechRixv](https://www.techrxiv.org/articles/preprint/ProteinChat_Towards_Achieving_ChatGPT-Like_Functionalities_on_Protein_3D_Structures/23120606), [Code](https://github.com/UCSD-AI4H/proteinchat)
 7. PandaGPT: One Model to Instruction-Follow Them All [Arxiv](https://arxiv.org/abs/2305.16355), [Code](https://github.com/yxuansu/PandaGPT)
 8. GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction [Arxiv](https://arxiv.org/abs/2305.18752), [Code](https://github.com/StevenGrove/GPT4Tools)
+### Alpaca-Based
+1. Radiology-GPT: A Large Language Model for Radiology  [Arxiv](https://arxiv.org/pdf/2306.08666.pdf),  [Code](https://github.com/zl-liu/Radiology-GPT), [Demo](https://huggingface.co/spaces/allen-eric/radiology-gpt)
 ### LLaVA-Based (also LLaMA-Based)
 1. LLaVA-Med: Large Language and Vision Assistant for BioMedicine [Arixv](https://arxiv.org/abs/2306.00890), [Code](https://github.com/microsoft/LLaVA-Med)
 ### OpenFlamingo-Based (also LLaMA-Based)
@@ -34,7 +36,3 @@ PluginGPT: Rethinking the Role of GPT Plugins
 ### ChatGLM-Based
 1. X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages [Arxiv](https://arxiv.org/abs/2305.04160), [Code](https://github.com/phellonchen/X-LLM)
 2. OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue [Arxiv](https://arxiv.org/abs/2306.12174), [Code](https://github.com/ML-AILab/OphGLM)
-
-
-### Alpaca-Based
-1. Radiology-GPT: A Large Language Model for Radiology  [Arxiv](https://arxiv.org/pdf/2306.08666.pdf),  [Code](https://github.com/zl-liu/Radiology-GPT), [Demo](https://huggingface.co/spaces/allen-eric/radiology-gpt)
