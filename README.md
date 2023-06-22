@@ -6,7 +6,7 @@ PluginGPT: Rethinking the Role of GPT Plugins
 2. ChatCAD+: Towards a Reliable and Universal Interactive CAD using LLMs [Arxiv](https://arxiv.org/abs/2305.15964), [Code](https://github.com/zhaozh10/ChatCAD)
 3. MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action [Arxiv](https://arxiv.org/abs/2303.11381), [Code](https://github.com/microsoft/MM-REACT)
 4. Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models [Arxiv](https://arxiv.org/abs/2303.04671), [Code](https://github.com/microsoft/TaskMatrix)
-## Pretrain Model-Based (LLaMA, Vicuna, LLaVA, OpenFlamingo, ChatGLM)
+## Pretrain Model-Based (LLaMA, Vicuna, LLaVA, OpenFlamingo, ChatGLM, Alpaca)
 ### LLaMA-Based
 1. Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding [Arxiv](https://arxiv.org/abs/2306.02858), [Code](https://github.com/DAMO-NLP-SG/Video-LLaMA)
 2. mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality [Arxiv](https://arxiv.org/abs/2304.14178), [Code](https://github.com/x-plug/mplug-owl)
@@ -33,3 +33,7 @@ PluginGPT: Rethinking the Role of GPT Plugins
 2. Otter: A Multi-Modal Model with In-Context Instruction Tuning [Arxiv](https://arxiv.org/abs/2305.03726), [Code](https://github.com/Luodian/otter)
 ### ChatGLM-Based
 1. X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages [Arxiv](https://arxiv.org/abs/2305.04160), [Code](https://github.com/phellonchen/X-LLM)
+
+
+### Alpaca-Based
+1. Radiology-GPT: A Large Language Model for Radiology  [Arxiv](https://arxiv.org/pdf/2306.08666.pdf),  [Code](https://github.com/zl-liu/Radiology-GPT), [Demo](https://huggingface.co/spaces/allen-eric/radiology-gpt)
