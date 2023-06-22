@@ -33,6 +33,7 @@ PluginGPT: Rethinking the Role of GPT Plugins
 2. Otter: A Multi-Modal Model with In-Context Instruction Tuning [Arxiv](https://arxiv.org/abs/2305.03726), [Code](https://github.com/Luodian/otter)
 ### ChatGLM-Based
 1. X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages [Arxiv](https://arxiv.org/abs/2305.04160), [Code](https://github.com/phellonchen/X-LLM)
+2. OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue [Arxiv](https://arxiv.org/abs/2306.12174), [Code](https://github.com/ML-AILab/OphGLM)
 
 
 ### Alpaca-Based
