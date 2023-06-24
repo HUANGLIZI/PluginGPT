@@ -33,6 +33,10 @@ PluginGPT: Rethinking the Role of GPT Plugins
 ### OpenFlamingo-Based (also LLaMA-Based)
 1. MultiModal-GPT: A Vision and Language Model for Dialogue with Humans [Arxiv](https://arxiv.org/abs/2305.04790), [Code](https://github.com/open-mmlab/Multimodal-GPT)
 2. Otter: A Multi-Modal Model with In-Context Instruction Tuning [Arxiv](https://arxiv.org/abs/2305.03726), [Code](https://github.com/Luodian/otter)
+### PaLM-Based
+1. Google AI PaLM 2 [Arxiv](https://arxiv.org/abs/2305.10403), [Demo](https://ai.google/discover/palm2)
+2. AudioPaLM: A Large Language Model That Can Speak and Listen [Arxiv](https://arxiv.org/abs/2306.12925v1), [Demo](https://google-research.github.io/seanet/audiopalm/examples/)
+3. Large Language Models Encode Clinical Knowledge [Arxiv](https://arxiv.org/abs/2212.13138), [Demo](https://sites.research.google/med-palm/)
 ### ChatGLM-Based
 1. X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages [Arxiv](https://arxiv.org/abs/2305.04160), [Code](https://github.com/phellonchen/X-LLM)
 2. OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue [Arxiv](https://arxiv.org/abs/2306.12174), [Code](https://github.com/ML-AILab/OphGLM)
