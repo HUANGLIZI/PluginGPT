@@ -39,3 +39,5 @@
 ### ChatGLM-Based
 1. X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages [Arxiv](https://arxiv.org/abs/2305.04160), [Code](https://github.com/phellonchen/X-LLM)
 2. OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue [Arxiv](https://arxiv.org/abs/2306.12174), [Code](https://github.com/ML-AILab/OphGLM)
+3. VisualGLM-6B [Code](https://github.com/THUDM/VisualGLM-6B)
+4. SEEChat [Code](https://github.com/360CVGroup/SEEChat)
