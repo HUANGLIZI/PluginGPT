@@ -41,3 +41,4 @@
 2. OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue [Arxiv](https://arxiv.org/abs/2306.12174), [Code](https://github.com/ML-AILab/OphGLM)
 3. VisualGLM-6B [Code](https://github.com/THUDM/VisualGLM-6B)
 4. SEEChat [Code](https://github.com/360CVGroup/SEEChat)
+5. ChatGLM2-6B [Code](https://github.com/THUDM/ChatGLM2-6B)
