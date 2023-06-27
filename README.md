@@ -29,6 +29,8 @@
 1. Radiology-GPT: A Large Language Model for Radiology  [Arxiv](https://arxiv.org/pdf/2306.08666.pdf),  [Code](https://github.com/zl-liu/Radiology-GPT), [Demo](https://huggingface.co/spaces/allen-eric/radiology-gpt)
 ### LLaVA-Based (also LLaMA-Based)
 1. LLaVA-Med: Large Language and Vision Assistant for BioMedicine [Arixv](https://arxiv.org/abs/2306.00890), [Code](https://github.com/microsoft/LLaVA-Med)
+2. KOSMOS-1: Language Is Not All You Need: Aligning Perception with Language Models [Arxiv](https://arxiv.org/abs/2302.14045), [Code](https://github.com/microsoft/unilm)
+3. KOSMOS-2: Grounding Multimodal Large Language Models to the World [Arxiv](https://arxiv.org/abs/2306.14824), [Code](https://github.com/microsoft/unilm)
 ### OpenFlamingo-Based (also LLaMA-Based)
 1. MultiModal-GPT: A Vision and Language Model for Dialogue with Humans [Arxiv](https://arxiv.org/abs/2305.04790), [Code](https://github.com/open-mmlab/Multimodal-GPT)
 2. Otter: A Multi-Modal Model with In-Context Instruction Tuning [Arxiv](https://arxiv.org/abs/2305.03726), [Code](https://github.com/Luodian/otter)
