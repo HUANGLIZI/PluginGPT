@@ -5,7 +5,7 @@
 2. ChatCAD+: Towards a Reliable and Universal Interactive CAD using LLMs [Arxiv](https://arxiv.org/abs/2305.15964), [Code](https://github.com/zhaozh10/ChatCAD)
 3. MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action [Arxiv](https://arxiv.org/abs/2303.11381), [Code](https://github.com/microsoft/MM-REACT)
 4. Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models [Arxiv](https://arxiv.org/abs/2303.04671), [Code](https://github.com/microsoft/TaskMatrix)
-5. Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language (Optional GPT4/3.5-Based) [Arxiv](https://arxiv.org/abs/2306.16410v1), [Code](https://github.com/ContextualAI/lens)
+5. Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language (Optional GPT3.5-Based) [Arxiv](https://arxiv.org/abs/2306.16410v1), [Code](https://github.com/ContextualAI/lens)
 ## Pretrain Model-Based (LLaMA, Vicuna, Alpaca, LLaVA, OpenFlamingo, PaLM, ChatGLM)
 ### LLaMA-Based
 1. Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding [Arxiv](https://arxiv.org/abs/2306.02858), [Code](https://github.com/DAMO-NLP-SG/Video-LLaMA)
