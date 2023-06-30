@@ -18,13 +18,12 @@
 8. LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention [Arxiv](https://arxiv.org/abs/2303.16199), [Code](https://github.com/opengvlab/llama-adapter)
 9. SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities [Arxiv](https://arxiv.org/abs/2305.11000), [Code](https://github.com/0nutation/speechgpt)
 10. EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [Arxiv](https://arxiv.org/abs/2305.15021), [Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)
+11. Extending Context Window of Large Language Models via Positional Interpolation [Arxiv](https://arxiv.org/abs/2306.15595)
 ### Vicuna-Based (also LLaMA-Based)
 1. MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models [Arxiv](https://arxiv.org/abs/2304.10592), [Code](https://github.com/vision-cair/minigpt-4)
 2. XrayGPT: Chest Radiographs Summarization using Large Medical Vision-Language Models [Arxiv](https://arxiv.org/abs/2306.07971), [Code](https://github.com/mbzuai-oryx/XrayGPT)
 3. Path to Medical AGI: Unify Domain-specific Medical LLMs with the Lowest Cost [Arxiv](https://arxiv.org/abs/2306.10765), [Code](https://github.com/JoshuaChou2018/MedAGI)
-4. SkinGPT-4: An Interactive Dermatology Diagnostic System with Visual Large Language Model [MedRxiv](https://www.medrxiv.org/content/10.1101/2023.06.10.23291127v1
-        
-        ), [Code](https://github.com/JoshuaChou2018/SkinGPT-4)
+4. SkinGPT-4: An Interactive Dermatology Diagnostic System with Visual Large Language Model [MedRxiv](https://www.medrxiv.org/content/10.1101/2023.06.10.23291127v1), [Code](https://github.com/JoshuaChou2018/SkinGPT-4)
 6. ProteinChat: Towards Enabling ChatGPT-Like Capabilities on Protein 3D Structures [TechRixv](https://www.techrxiv.org/articles/preprint/ProteinChat_Towards_Achieving_ChatGPT-Like_Functionalities_on_Protein_3D_Structures/23120606), [Code](https://github.com/UCSD-AI4H/proteinchat)
 7. PandaGPT: One Model to Instruction-Follow Them All [Arxiv](https://arxiv.org/abs/2305.16355), [Code](https://github.com/yxuansu/PandaGPT)
 8. GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction [Arxiv](https://arxiv.org/abs/2305.18752), [Code](https://github.com/StevenGrove/GPT4Tools)
@@ -34,6 +33,7 @@
 1. LLaVA-Med: Large Language and Vision Assistant for BioMedicine [Arixv](https://arxiv.org/abs/2306.00890), [Code](https://github.com/microsoft/LLaVA-Med)
 2. KOSMOS-1: Language Is Not All You Need: Aligning Perception with Language Models [Arxiv](https://arxiv.org/abs/2302.14045), [Code](https://github.com/microsoft/unilm)
 3. KOSMOS-2: Grounding Multimodal Large Language Models to the World [Arxiv](https://arxiv.org/abs/2306.14824), [Code](https://github.com/microsoft/unilm)
+4. LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding [Arxiv](https://arxiv.org/abs/2306.17107), [Code](https://llavar.github.io/)
 ### OpenFlamingo-Based (also LLaMA-Based)
 1. MultiModal-GPT: A Vision and Language Model for Dialogue with Humans [Arxiv](https://arxiv.org/abs/2305.04790), [Code](https://github.com/open-mmlab/Multimodal-GPT)
 2. Otter: A Multi-Modal Model with In-Context Instruction Tuning [Arxiv](https://arxiv.org/abs/2305.03726), [Code](https://github.com/Luodian/otter)
