@@ -7,6 +7,8 @@
 4. Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models [Arxiv](https://arxiv.org/abs/2303.04671), [Code](https://github.com/microsoft/TaskMatrix)
 5. Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language (Optional GPT3.5-Based) [Arxiv](https://arxiv.org/abs/2306.16410v1), [Code](https://github.com/ContextualAI/lens)
 5. SummQA at MEDIQA-Chat 2023: In-Context Learning with GPT-4 for Medical Summarization [Arxiv](https://arxiv.org/pdf/2306.17384.pdf), [Code](https://github.com/Raghav1606/SummQA)
+5. A Study of Generative Large Language Model for Medical Research and Healthcare  [Arxiv](https://arxiv.org/ftp/arxiv/papers/2305/2305.13523.pdf), [Code](https://github.com/uf-hobi-informatics-lab/NLPreprocessing)
+5. SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs   [Arxiv](https://arxiv.org/pdf/2306.17842.pdf), [Code](https://github.com/google-research/magvit/ projects/spae)
 ## Pretrain Model-Based (LLaMA, Vicuna, Alpaca, LLaVA, OpenFlamingo, PaLM, ChatGLM)
 ### LLaMA-Based
 1. Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding [Arxiv](https://arxiv.org/abs/2306.02858), [Code](https://github.com/DAMO-NLP-SG/Video-LLaMA)
