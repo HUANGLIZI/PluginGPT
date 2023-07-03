@@ -20,6 +20,7 @@
 9. SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities [Arxiv](https://arxiv.org/abs/2305.11000), [Code](https://github.com/0nutation/speechgpt)
 10. EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought [Arxiv](https://arxiv.org/abs/2305.15021), [Code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)
 11. Extending Context Window of Large Language Models via Positional Interpolation [Arxiv](https://arxiv.org/abs/2306.15595)
+11. Clinical Camel: An Open-Source Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding [Arxiv](https://arxiv.org/pdf/2305.12031.pdf), [Code](https://github.com/bowang-lab/clinical-camel)
 ### Vicuna-Based (also LLaMA-Based)
 1. MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models [Arxiv](https://arxiv.org/abs/2304.10592), [Code](https://github.com/vision-cair/minigpt-4)
 2. XrayGPT: Chest Radiographs Summarization using Large Medical Vision-Language Models [Arxiv](https://arxiv.org/abs/2306.07971), [Code](https://github.com/mbzuai-oryx/XrayGPT)
