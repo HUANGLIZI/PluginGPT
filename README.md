@@ -6,6 +6,7 @@
 3. MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action [Arxiv](https://arxiv.org/abs/2303.11381), [Code](https://github.com/microsoft/MM-REACT)
 4. Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models [Arxiv](https://arxiv.org/abs/2303.04671), [Code](https://github.com/microsoft/TaskMatrix)
 5. Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language (Optional GPT3.5-Based) [Arxiv](https://arxiv.org/abs/2306.16410v1), [Code](https://github.com/ContextualAI/lens)
+5. SummQA at MEDIQA-Chat 2023: In-Context Learning with GPT-4 for Medical Summarization [Arxiv](https://arxiv.org/pdf/2306.17384.pdf), [Code](https://github.com/Raghav1606/SummQA)
 ## Pretrain Model-Based (LLaMA, Vicuna, Alpaca, LLaVA, OpenFlamingo, PaLM, ChatGLM)
 ### LLaMA-Based
 1. Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding [Arxiv](https://arxiv.org/abs/2306.02858), [Code](https://github.com/DAMO-NLP-SG/Video-LLaMA)
