@@ -28,9 +28,7 @@
 1. MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models [Arxiv](https://arxiv.org/abs/2304.10592), [Code](https://github.com/vision-cair/minigpt-4)
 2. XrayGPT: Chest Radiographs Summarization using Large Medical Vision-Language Models [Arxiv](https://arxiv.org/abs/2306.07971), [Code](https://github.com/mbzuai-oryx/XrayGPT)
 3. Path to Medical AGI: Unify Domain-specific Medical LLMs with the Lowest Cost [Arxiv](https://arxiv.org/abs/2306.10765), [Code](https://github.com/JoshuaChou2018/MedAGI)
-4. SkinGPT-4: An Interactive Dermatology Diagnostic System with Visual Large Language Model [MedRxiv](https://www.medrxiv.org/content/10.1101/2023.06.10.23291127v1
-        
-        ), [Code](https://github.com/JoshuaChou2018/SkinGPT-4)
+4. SkinGPT-4: An Interactive Dermatology Diagnostic System with Visual Large Language Model [MedRxiv](https://www.medrxiv.org/content/10.1101/2023.06.10.23291127v1), [Code](https://github.com/JoshuaChou2018/SkinGPT-4)
 5. ProteinChat: Towards Enabling ChatGPT-Like Capabilities on Protein 3D Structures [TechRixv](https://www.techrxiv.org/articles/preprint/ProteinChat_Towards_Achieving_ChatGPT-Like_Functionalities_on_Protein_3D_Structures/23120606), [Code](https://github.com/UCSD-AI4H/proteinchat)
 6. PandaGPT: One Model to Instruction-Follow Them All [Arxiv](https://arxiv.org/abs/2305.16355), [Code](https://github.com/yxuansu/PandaGPT)
 7. GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction [Arxiv](https://arxiv.org/abs/2305.18752), [Code](https://github.com/StevenGrove/GPT4Tools)
