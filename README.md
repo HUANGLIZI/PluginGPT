@@ -24,6 +24,7 @@
 11. Extending Context Window of Large Language Models via Positional Interpolation [Arxiv](https://arxiv.org/abs/2306.15595)
 12. Clinical Camel: An Open-Source Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding [Arxiv](https://arxiv.org/pdf/2305.12031.pdf), [Code](https://github.com/bowang-lab/clinical-camel)
 13. Dr. LLaMA: Improving Small Language Models on PubMedQA via Generative Data Augmentation [Arxiv](https://arxiv.org/pdf/2305.07804.pdf), [Code](https://github.com/zguo0525/Dr.LLaMA)
+14. What Matters in Training a GPT4-Style Language Model with Multimodal Inputs? [Arxiv](https://arxiv.org/abs/2307.02469), [Page](https://lynx-llm.github.io/)
 ### Vicuna-Based (also LLaMA-Based)
 1. MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models [Arxiv](https://arxiv.org/abs/2304.10592), [Code](https://github.com/vision-cair/minigpt-4)
 2. XrayGPT: Chest Radiographs Summarization using Large Medical Vision-Language Models [Arxiv](https://arxiv.org/abs/2306.07971), [Code](https://github.com/mbzuai-oryx/XrayGPT)
