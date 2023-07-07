@@ -34,6 +34,7 @@
 6. PandaGPT: One Model to Instruction-Follow Them All [Arxiv](https://arxiv.org/abs/2305.16355), [Code](https://github.com/yxuansu/PandaGPT)
 7. GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction [Arxiv](https://arxiv.org/abs/2305.18752), [Code](https://github.com/StevenGrove/GPT4Tools)
 8. DetGPT: Detect What You Need via Reasoning [Arxiv](https://arxiv.org/abs/2305.14167), [Code](https://github.com/OptimalScale/DetGPT)
+9. GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest [Arxiv](https://jshilong.github.io/images/gpt4roi.pdf), [Code](https://github.com/jshilong/GPT4RoI)
 ### Alpaca-Based (also LLaMA-Based)
 1. Radiology-GPT: A Large Language Model for Radiology  [Arxiv](https://arxiv.org/pdf/2306.08666.pdf),  [Code](https://github.com/zl-liu/Radiology-GPT), [Demo](https://huggingface.co/spaces/allen-eric/radiology-gpt)
 ### LLaVA-Based (also LLaMA-Based)
