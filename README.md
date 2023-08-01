@@ -45,6 +45,7 @@
 ### OpenFlamingo-Based (also LLaMA-Based)
 1. MultiModal-GPT: A Vision and Language Model for Dialogue with Humans [Arxiv](https://arxiv.org/abs/2305.04790), [Code](https://github.com/open-mmlab/Multimodal-GPT)
 2. Otter: A Multi-Modal Model with In-Context Instruction Tuning [Arxiv](https://arxiv.org/abs/2305.03726), [Code](https://github.com/Luodian/otter)
+3. Med-Flamingo: A Multimodal Medical Few-shot Learner [Arxiv](https://arxiv.org/abs/2307.15189), [Code](https://github.com/snap-stanford/med-flamingo)
 ### PaLM-Based
 1. Google AI PaLM 2 [Arxiv](https://arxiv.org/abs/2305.10403), [Demo](https://ai.google/discover/palm2)
 2. AudioPaLM: A Large Language Model That Can Speak and Listen [Arxiv](https://arxiv.org/abs/2306.12925v1), [Demo](https://google-research.github.io/seanet/audiopalm/examples/)
