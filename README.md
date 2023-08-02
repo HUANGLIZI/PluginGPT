@@ -53,6 +53,7 @@
 3. Large Language Models Encode Clinical Knowledge [Arxiv](https://arxiv.org/abs/2212.13138), [Demo](https://sites.research.google/med-palm/)
 4. Med-PaLM: Large language models encode clinical knowledge [Arxiv](https://arxiv.org/abs/2305.09617), [Page](https://sites.research.google/med-palm/)
 5. Med-PaLM M: Towards Generalist Biomedical AI [Arxiv](https://arxiv.org/abs/2307.14334)
+6. PaLM-E: An Embodied Multimodal Language Model [Arxiv](https://arxiv.org/abs/2303.03378), [Page](https://palm-e.github.io/)
 ### ChatGLM-Based
 1. X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages [Arxiv](https://arxiv.org/abs/2305.04160), [Code](https://github.com/phellonchen/X-LLM)
 2. OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue [Arxiv](https://arxiv.org/abs/2306.12174), [Code](https://github.com/ML-AILab/OphGLM)
