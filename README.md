@@ -43,6 +43,7 @@
 3. KOSMOS-2: Grounding Multimodal Large Language Models to the World [Arxiv](https://arxiv.org/abs/2306.14824), [Code](https://github.com/microsoft/unilm)
 4. LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding [Arxiv](https://arxiv.org/abs/2306.17107), [Code](https://llavar.github.io/)
 5. LISA: Reasoning Segmentation via Large Language Model [Arxiv](https://arxiv.org/abs/2308.00692), [Code](https://github.com/dvlab-research/LISA)
+6. FashionLOGO: Prompting Multimodal Large Language Models for Fashion Logo Embeddings [Arxiv](https://arxiv.org/abs/2308.09012), [Code](https://github.com/valley-vl/fashionlogo)
 ### OpenFlamingo-Based (also LLaMA-Based)
 1. MultiModal-GPT: A Vision and Language Model for Dialogue with Humans [Arxiv](https://arxiv.org/abs/2305.04790), [Code](https://github.com/open-mmlab/Multimodal-GPT)
 2. Otter: A Multi-Modal Model with In-Context Instruction Tuning [Arxiv](https://arxiv.org/abs/2305.03726), [Code](https://github.com/Luodian/otter)
